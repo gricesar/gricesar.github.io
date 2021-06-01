@@ -1,0 +1,15 @@
+h2 {
+font-family: century gothic; color: azure; background-color: darkgray; width: 80%; height: 30px; text-align: center; margin: 0 0 0 35px; padding-top: 5px; border: 0px; border-radius: 25px;
+}
+img {
+ width: 150px; height: 150px; border: solid 5px; border-radius: 75px;
+}
+figure {
+font-weight: bold; text-align: center; margin: 0 0 0 15px;0
+}
+.left, .right { 
+display: inline-block; 
+}
+background-image {
+filter: opacity(25%);
+}
